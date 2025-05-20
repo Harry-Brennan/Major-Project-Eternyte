@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{7849326f-b580-48b0-9ebe-dce59fcfb436}">
+		<property name="assetPath">
+			<value>Flashlight/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b9b826f1-2633-4b75-80ed-3c2554b940c1}</destination>
+		</relationship>
+	</object>
+</objects>
