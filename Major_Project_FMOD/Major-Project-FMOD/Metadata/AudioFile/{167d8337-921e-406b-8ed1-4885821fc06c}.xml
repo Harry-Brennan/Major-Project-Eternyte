@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{167d8337-921e-406b-8ed1-4885821fc06c}">
 		<property name="assetPath">
-			<value>UI/User Interface, Click, Neutral, Select Tone SND31030 1.wav</value>
+			<value>UI/Click Hover 1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>96</value>
