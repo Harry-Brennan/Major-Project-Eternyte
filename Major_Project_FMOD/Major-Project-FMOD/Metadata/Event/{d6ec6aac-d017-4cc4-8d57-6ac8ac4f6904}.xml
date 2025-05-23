@@ -8,7 +8,7 @@
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{1d105851-faae-4d0f-8eba-03a3ca62b5be}</destination>
+			<destination>{b3733c20-6a60-4170-8bce-c2158dc49e2b}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{5c18d07d-3189-439c-a376-95750f05aa96}</destination>
@@ -119,10 +119,10 @@
 	<object class="MixerBusFader" id="{14f64e3b-a1c7-413d-8ce9-709d84d2857d}" />
 	<object class="MultibandEqEffect" id="{36450656-e725-470b-8700-8a1efce7bf44}">
 		<property name="frequencyA">
-			<value>429.303101</value>
+			<value>782.910095</value>
 		</property>
 		<property name="qualityA">
-			<value>0.686068952</value>
+			<value>0.644206941</value>
 		</property>
 	</object>
 	<object class="RandomizerModulator" id="{3671a845-e17a-4398-b330-179192b6f5b1}">
