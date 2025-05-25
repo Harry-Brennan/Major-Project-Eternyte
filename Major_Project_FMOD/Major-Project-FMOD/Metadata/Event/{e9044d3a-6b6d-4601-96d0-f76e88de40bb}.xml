@@ -110,6 +110,9 @@
 		<property name="looping">
 			<value>true</value>
 		</property>
+		<relationship name="modulators">
+			<destination>{64331298-ef10-4026-8e5d-16bd7ae3de10}</destination>
+		</relationship>
 		<relationship name="audioFile">
 			<destination>{1696cfea-c0fb-43d6-94c4-bcef8c200b0b}</destination>
 		</relationship>
@@ -142,6 +145,14 @@
 		</property>
 		<property name="qualityA">
 			<value>0.602344871</value>
+		</property>
+	</object>
+	<object class="RandomizerModulator" id="{64331298-ef10-4026-8e5d-16bd7ae3de10}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>pitch</value>
+		</property>
+		<property name="amount">
+			<value>23.5</value>
 		</property>
 	</object>
 </objects>
