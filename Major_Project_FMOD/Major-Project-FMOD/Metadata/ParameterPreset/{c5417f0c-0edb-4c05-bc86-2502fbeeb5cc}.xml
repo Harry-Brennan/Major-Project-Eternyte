@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{c5417f0c-0edb-4c05-bc86-2502fbeeb5cc}">
+		<property name="name">
+			<value>Absail Vol</value>
+		</property>
+		<relationship name="folder">
+			<destination>{41a51f07-50da-4b8d-9bbe-082b2a153441}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{9035792e-5e56-47a1-af0f-968d03aa3d76}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{9035792e-5e56-47a1-af0f-968d03aa3d76}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0.5</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

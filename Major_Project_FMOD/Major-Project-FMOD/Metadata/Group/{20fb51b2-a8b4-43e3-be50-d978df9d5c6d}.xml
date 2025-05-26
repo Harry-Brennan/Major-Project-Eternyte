@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{20fb51b2-a8b4-43e3-be50-d978df9d5c6d}">
+		<property name="name">
+			<value>Absailing</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{23bffe47-7cbc-4743-ab71-5fed6a32b225}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{c5ce43f5-18ed-454e-b8c5-c67152a6e143}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{42263d65-3084-4264-88e0-6ef5021270ad}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{23bffe47-7cbc-4743-ab71-5fed6a32b225}">
+		<relationship name="effects">
+			<destination>{fe16b0b9-f26a-4887-980e-a34813da5240}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{c5ce43f5-18ed-454e-b8c5-c67152a6e143}" />
+	<object class="MixerBusFader" id="{fe16b0b9-f26a-4887-980e-a34813da5240}" />
+</objects>
