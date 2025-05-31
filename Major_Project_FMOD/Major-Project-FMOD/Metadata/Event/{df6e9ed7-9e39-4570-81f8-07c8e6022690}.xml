@@ -140,7 +140,7 @@
 	<object class="SpatialiserEffect" id="{3824e7d3-79c4-45d2-9d03-6a4c85948d32}" />
 	<object class="DistortionEffect" id="{45148450-c0ef-4b35-a28b-483eb947e8af}">
 		<property name="level">
-			<value>0.219999999</value>
+			<value>0.114999995</value>
 		</property>
 	</object>
 	<object class="MultibandEqEffect" id="{fcbd63bf-6fc4-467f-a187-627bac23ac01}">
