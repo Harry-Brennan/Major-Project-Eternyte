@@ -5,7 +5,7 @@
 			<value>Stare</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{e879e6e9-bc88-494a-93a9-8107b60ce6f6}</destination>
@@ -96,6 +96,9 @@
 	<object class="MixerBusEffectChain" id="{2743d8c2-0b6d-44b7-9c1e-e7a51ca56e36}">
 		<relationship name="effects">
 			<destination>{98099012-835c-4822-ac73-862857a00e0b}</destination>
+			<destination>{10ca550a-ecdf-4886-885c-32fca6e2bfe8}</destination>
+			<destination>{ec752c12-86de-4542-ae5e-5bc2af82697e}</destination>
+			<destination>{7b1cb69d-33fc-45e9-ad5a-e7c94231a239}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{510a7cb8-7cf6-4654-bdd6-22b34e7a4698}" />
@@ -106,4 +109,11 @@
 	</object>
 	<object class="MixerBusFader" id="{9ccaa264-0024-4040-ae46-9b117827c4af}" />
 	<object class="MixerBusFader" id="{98099012-835c-4822-ac73-862857a00e0b}" />
+	<object class="SpatialiserEffect" id="{10ca550a-ecdf-4886-885c-32fca6e2bfe8}" />
+	<object class="DistortionEffect" id="{ec752c12-86de-4542-ae5e-5bc2af82697e}">
+		<property name="level">
+			<value>0.620000005</value>
+		</property>
+	</object>
+	<object class="SFXReverbEffect" id="{7b1cb69d-33fc-45e9-ad5a-e7c94231a239}" />
 </objects>
