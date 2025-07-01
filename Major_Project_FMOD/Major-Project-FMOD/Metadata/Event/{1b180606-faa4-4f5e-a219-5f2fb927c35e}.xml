@@ -56,7 +56,7 @@
 			<destination>{def0d091-a6be-4596-a250-e9374bb45617}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{1660d283-56cf-433d-b23d-3813f840abae}</destination>
+			<destination>{42263d65-3084-4264-88e0-6ef5021270ad}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{c2c45fa7-8024-4c88-b4aa-269787580f87}" />
@@ -83,8 +83,13 @@
 		</relationship>
 	</object>
 	<object class="MultiSound" id="{3e371fd1-a0c7-4d6d-af97-66173f7a375c}">
+		<property name="playbackMode">
+			<value>1</value>
+		</property>
 		<relationship name="sounds">
 			<destination>{91885b55-c00b-4674-9a3a-3fb48f1634cd}</destination>
+			<destination>{84501162-f731-4809-86f3-8a8db35abcc3}</destination>
+			<destination>{e8233b78-8cf0-436f-acd6-c37cb57d6bb7}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{28e6e67c-dc7f-449f-bc07-528b04e81739}">
@@ -109,10 +114,24 @@
 			<destination>{8146b585-3b52-47fb-bcbe-11c88bcfbe77}</destination>
 		</relationship>
 	</object>
+	<object class="SingleSound" id="{84501162-f731-4809-86f3-8a8db35abcc3}">
+		<relationship name="audioFile">
+			<destination>{dcff721f-782b-44d1-8c24-ecb53824e812}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{e8233b78-8cf0-436f-acd6-c37cb57d6bb7}">
+		<relationship name="audioFile">
+			<destination>{575ca5a7-6fec-47f8-8c70-fe22b0bd68db}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{5a4a4d51-cdca-4413-a9cb-cb4e84e362e5}" />
 	<object class="MixerBusFader" id="{51e7194d-9385-4b5e-a85f-4cdedadbaa2a}" />
 	<object class="SpatialiserEffect" id="{53e68716-3de3-4525-9631-e8a0a759ff13}" />
-	<object class="DistortionEffect" id="{6ef00736-f2bb-4c8e-86ba-9ec98bfe64e6}" />
+	<object class="DistortionEffect" id="{6ef00736-f2bb-4c8e-86ba-9ec98bfe64e6}">
+		<property name="level">
+			<value>0.694999993</value>
+		</property>
+	</object>
 	<object class="SFXReverbEffect" id="{b4679d1f-55c1-43ee-98e6-107f991beae2}">
 		<property name="decayTime">
 			<value>4000</value>
