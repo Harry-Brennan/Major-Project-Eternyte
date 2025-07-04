@@ -5,7 +5,7 @@
 			<value>Small Creature Floor</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{dea64b75-2d9a-49ef-aa43-f6e20b0e3a3b}</destination>
@@ -59,7 +59,11 @@
 			<destination>{42263d65-3084-4264-88e0-6ef5021270ad}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{c8a43962-d057-4931-930e-a9e6d84823d1}" />
+	<object class="EventAutomatableProperties" id="{c8a43962-d057-4931-930e-a9e6d84823d1}">
+		<property name="isPersistent">
+			<value>true</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{540c0180-ee51-4037-b8a1-37332c09a9b7}" />
 	<object class="Timeline" id="{f17b96c7-a9c6-4bc6-af3a-8952a16c275d}">
 		<property name="isProxyEnabled">
@@ -72,6 +76,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{f1aabcaa-eec1-457c-b2ed-b64ed783ee9f}">
+		<property name="volume">
+			<value>-21.5</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{3070b867-afbf-4615-acd1-db78d7c68a7c}</destination>
 		</relationship>
@@ -103,7 +110,7 @@
 			<destination>{ed821a36-64d4-4030-8860-71515e7b254b}</destination>
 			<destination>{78861528-001b-4e3c-9fca-aaa72151ec6b}</destination>
 			<destination>{cb800b5d-a233-4e0f-917b-046b9e19a326}</destination>
-			<destination>{96b4d885-c163-4e51-8649-368095c0e292}</destination>
+			<destination>{a7ec2a5b-5e78-4f66-9544-9b86f14e75c4}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{bfacd1e4-6e94-4212-ab1e-5f6d1b8fa9ee}" />
@@ -138,7 +145,7 @@
 	<object class="MixerBusFader" id="{ed821a36-64d4-4030-8860-71515e7b254b}" />
 	<object class="DistortionEffect" id="{78861528-001b-4e3c-9fca-aaa72151ec6b}">
 		<property name="level">
-			<value>0.310000002</value>
+			<value>0.170000002</value>
 		</property>
 	</object>
 	<object class="SFXReverbEffect" id="{cb800b5d-a233-4e0f-917b-046b9e19a326}">
@@ -146,11 +153,7 @@
 			<value>4000</value>
 		</property>
 	</object>
-	<object class="PannerEffect" id="{96b4d885-c163-4e51-8649-368095c0e292}">
-		<relationship name="modulators">
-			<destination>{35b6040d-3ba9-4400-8d88-c6b02f0e37d0}</destination>
-		</relationship>
-	</object>
+	<object class="SpatialiserEffect" id="{a7ec2a5b-5e78-4f66-9544-9b86f14e75c4}" />
 	<object class="RandomizerModulator" id="{90c934d9-e9c2-49b7-a2a4-34052f5b95e0}">
 		<property name="nameOfPropertyBeingModulated">
 			<value>pitch</value>
@@ -197,17 +200,6 @@
 		</property>
 		<property name="amount">
 			<value>20</value>
-		</property>
-	</object>
-	<object class="LFOModulator" id="{35b6040d-3ba9-4400-8d88-c6b02f0e37d0}">
-		<property name="nameOfPropertyBeingModulated">
-			<value>stereoPan</value>
-		</property>
-		<property name="shape">
-			<value>5</value>
-		</property>
-		<property name="depth">
-			<value>100</value>
 		</property>
 	</object>
 </objects>
