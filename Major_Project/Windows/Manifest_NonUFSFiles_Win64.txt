@@ -1,0 +1,40 @@
+Engine/Binaries/Win64/EOSSDK-Win64-Shipping.dll	2025-05-21T12:49:20.603Z
+Major_Project/Binaries/Win64/D3D12/D3D12Core.dll	2025-05-21T12:49:18.298Z
+Major_Project/Binaries/Win64/D3D12/d3d12SDKLayers.dll	2025-05-21T12:49:18.417Z
+Major_Project/Binaries/Win64/Major_Project-Win64-Shipping.exe	2025-07-06T21:41:10.172Z
+Major_Project/Binaries/Win64/OpenImageDenoise.dll	2025-05-21T13:00:52.880Z
+Major_Project/Binaries/Win64/tbb.dll	2025-05-21T12:49:14.347Z
+Major_Project/Binaries/Win64/tbb12.dll	2025-05-21T13:00:52.170Z
+Major_Project/Binaries/Win64/tbbmalloc.dll	2025-05-21T12:49:14.348Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2025-05-21T12:54:09.705Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2025-05-21T12:48:37.631Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2025-05-21T12:49:14.466Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2025-05-21T12:49:14.493Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2025-05-21T12:49:14.495Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2025-05-21T12:49:17.128Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2025-05-21T12:49:17.128Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2025-05-21T12:49:18.443Z
+Engine/Content/Renderer/TessellationTable.bin	2025-05-21T12:52:38.245Z
+Engine/Content/Slate/Cursor/invisible.cur	2025-05-21T12:52:38.272Z
+Major_Project/Plugins/FMODStudio/Binaries/Win64/fmod.dll	2025-05-21T13:40:21.146Z
+Major_Project/Plugins/FMODStudio/Binaries/Win64/fmodstudio.dll	2025-05-21T13:40:21.271Z
+Major_Project/Content/FMOD/Desktop/Abseiling.bank	2025-07-05T21:51:27.103Z
+Major_Project/Content/FMOD/Desktop/Ambience.bank	2025-07-05T21:51:27.179Z
+Major_Project/Content/FMOD/Desktop/Dweller.bank	2025-07-05T21:51:27.229Z
+Major_Project/Content/FMOD/Desktop/Dynamite.bank	2025-05-26T18:38:45.237Z
+Major_Project/Content/FMOD/Desktop/EMF.bank	2025-05-27T00:03:36.488Z
+Major_Project/Content/FMOD/Desktop/Flashlight.bank	2025-05-25T13:17:30.196Z
+Major_Project/Content/FMOD/Desktop/Footsteps.bank	2025-05-25T13:17:30.252Z
+Major_Project/Content/FMOD/Desktop/Inventory.bank	2025-05-25T15:31:24.594Z
+Major_Project/Content/FMOD/Desktop/Journal.bank	2025-07-05T22:20:52.750Z
+Major_Project/Content/FMOD/Desktop/Landslide.bank	2025-07-05T21:51:27.274Z
+Major_Project/Content/FMOD/Desktop/Master.bank	2025-07-05T22:46:34.487Z
+Major_Project/Content/FMOD/Desktop/Master.strings.bank	2025-07-05T22:46:34.489Z
+Major_Project/Content/FMOD/Desktop/Minecart.bank	2025-07-05T21:51:27.304Z
+Major_Project/Content/FMOD/Desktop/Phone.bank	2025-07-05T21:51:27.368Z
+Major_Project/Content/FMOD/Desktop/Player.bank	2025-07-05T22:34:48.834Z
+Major_Project/Content/FMOD/Desktop/Quantum Object.bank	2025-07-05T21:51:27.438Z
+Major_Project/Content/FMOD/Desktop/Small Creatures.bank	2025-07-05T21:51:27.459Z
+Major_Project/Content/FMOD/Desktop/UI.bank	2025-05-25T13:17:30.351Z
+Major_Project/Content/Movies/FMOD Splash Screen.mp4	2025-07-06T00:49:38.861Z
+Major_Project.exe	2025-07-06T23:06:52.543Z
