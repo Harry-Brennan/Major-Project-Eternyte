@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{a562ea99-0169-44b2-a5e6-90f6e4039f6b}">
+		<property name="assetPath">
+			<value>Bloodsplosion/Blood_Impact_1.WAV</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.57420833333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b9b826f1-2633-4b75-80ed-3c2554b940c1}</destination>
+		</relationship>
+	</object>
+</objects>
